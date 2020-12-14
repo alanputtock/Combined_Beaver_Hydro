@@ -6,6 +6,6 @@ This Repo is forked from: https://github.com/alanputtock/Combined_Beaver_Hydro
 
 This will remain a static fork to present the Before After analysis for multiple beaver impacted sites as part of Puttock, et al. (in prep).
 
-For the Before After Control Impact (BACI) analysis applied to Budleigh Brook, considered in the manuscript (including rating equation and data cleaning undertaken at this site), please refer to the accompanying  https://github.com/exeter-creww/Budleigh_Brook_Beaver_Hydro
+For the Before After Control Impact (BACI) analysis applied to Budleigh Brook, considered in the manuscript, please refer to the accompanying  https://github.com/exeter-creww/Budleigh_Brook_Beaver_Hydro
 
 For Code relating to the extration of MetOffice NIMROD rainfall radar data please refer to: https://github.com/exeter-creww/Rainfall_radar
